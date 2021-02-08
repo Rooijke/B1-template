@@ -54,6 +54,11 @@ header{
   justify-content: flex-end;
 }
 
+.row2{
+  display: flex;
+  justify-content: flex-end;
+}
+
 h1{
   margin: 0;
   font-family: 'Heartbeat';
