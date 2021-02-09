@@ -102,6 +102,19 @@ table tfoot{
   font-weight: bold;
 }
 
+.buy{
+  border-left: 5px 1px 0px 5px solid #27AE60;
+  box-shadow: #27AE60 1px 0px 5px;
+  padding: 1em;
+}
+
+.emphasize h2{
+margin: 0;
+padding: 0;
+border-left: none;
+text-align: center;
+}
+
 article{
   border-left: 5px solid #27AE60;
   padding-left: 10px;
